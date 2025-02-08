@@ -21,5 +21,5 @@ A Python-based **Sudoku Solver** with a GUI built using Tkinter.
 ## 🔧 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sudoku-solver.git
+   git clone https://github.com/Vijayhm/Suduko-solver.git
 
